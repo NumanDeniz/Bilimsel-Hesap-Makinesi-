@@ -1,0 +1,39 @@
+C:\Users\sorhan\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\sorhan\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\sorhan\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\sorhan\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\Aslan\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\Administrator\Desktop\HesapMakinesi-master\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\bin\Debug\Calculator.exe
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.exe
+C:\Users\Monster\Desktop\ödevler\1. Etkinlik (Ödev) Cevaplar\Calculator\obj\Debug\Calculator.pdb
